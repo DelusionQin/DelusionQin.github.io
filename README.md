@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to the secret page for the lovely and penny Piglet
 
-You can use the [editor on GitHub](https://github.com/DelusionQin/DelusionQin.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [哔哩哔哩](https://www.bilibili.com/) to maintain and fun yourself.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
