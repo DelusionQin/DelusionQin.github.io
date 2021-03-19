@@ -1,5 +1,5 @@
 ## Welcome to the secret page for the lovely and penny Piglet
-<img src="./1616163982(1).jpg" align="left" style="width:300px;height:100 px">![image](https://user-images.githubusercontent.com/42319704/111795679-64dbd300-8902-11eb-849d-d4c6cf429c0a.png)
+![alt](./1616163982(1).jpg)
 
 
 You can use the [哔哩哔哩](https://www.bilibili.com/) to fun yourself.
