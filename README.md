@@ -1,37 +1,16 @@
 ## Welcome to the secret page for the lovely and penny Piglet
 
-You can use the [哔哩哔哩](https://www.bilibili.com/) to maintain and fun yourself.
+You can use the [哔哩哔哩](https://www.bilibili.com/) to fun yourself.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Keep healthy
 
-### Markdown
+you should care your body and mood instead of overeating or irritable.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+which can use the [人间小电影](https://www.xvideos.com/) to release pressure.
 
-```markdown
-Syntax highlighted code block
+### Keep shining
 
-# Header 1
-## Header 2
-### Header 3
+This web site is a wonderful monster which can let you Happy and sad which depending your pocket's capacity.
+[淘宝](https://www.taobao.com/)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DelusionQin/DelusionQin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### <h1 align = "center"> to be continuing </h1>
