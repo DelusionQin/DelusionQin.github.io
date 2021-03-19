@@ -1,5 +1,5 @@
 ## Welcome to the secret page for the lovely and penny Piglet
-<div align = centet>![alt](./1616163982(1).jpg)
+![alt](./1616163982(1).jpg)
 
 
 You can use the [哔哩哔哩](https://www.bilibili.com/) to fun yourself.
